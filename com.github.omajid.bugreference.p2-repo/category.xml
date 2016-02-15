@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature id="com.github.omajid.bugreference.feature">
+      <category name="bugreference.category.id"/>
+   </feature>
+   <category-def name="bugreference.category.id" label="Bug Reference">
+      <description>
+         Make bug references into clickable links
+      </description>
+   </category-def>
+</site>

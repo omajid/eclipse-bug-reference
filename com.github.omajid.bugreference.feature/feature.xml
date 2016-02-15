@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.github.omajid.bugreference.feature"
+      label="Bug Reference"
+      version="0.0.1.qualifier">
+
+   <description url="http://github.com/omajid/eclipse-bug-reference">
+      Automatically make bug references (such as BUG 123) in code or
+      documentation into clickable hyperlinks that will directly take
+      you to the bug report.
+   </description>
+
+   <copyright url="http://github.com/omajid/eclipse-bug-reference">
+      Copyright 2016 Omair Majid
+      This program and the accompanying materials are made available
+      under the terms of the Eclipse Public License v1.0 which accompanies
+      this distribution, and is available at
+      http://www.eclipse.org/legal/epl-v10.html
+   </copyright>
+
+   <license url="http://www.eclipse.org/legal/epl-v10.html">
+     Eclipse Public License 1.0
+   </license>
+
+   <plugin
+         id="com.github.omajid.bugreference"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+</feature>
