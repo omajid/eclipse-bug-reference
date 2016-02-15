@@ -8,6 +8,10 @@ clickable hyperlinks that will directly take you to the bug report.
 ![Screenshot](screenshots/main.png?raw=true "Screenshot")
 
 
+This plugin is inspired by `bug-reference-mode` in Emacs, which was
+originally written by Tom Tromey.
+
+
 Building
 ========
 
