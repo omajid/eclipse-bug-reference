@@ -49,3 +49,9 @@ Filing Bugs and Contributing
 
 Please report bugs via Github. Pull Requests are even better!
 
+License
+=======
+
+Copyright 2016 Omair Majid
+
+Licensed under Eclipse Public License 1.0
